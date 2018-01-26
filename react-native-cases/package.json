@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-test-renderer": "^16.2.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
